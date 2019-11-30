@@ -5,18 +5,12 @@
 Via npx:
 
 ```bash
-npx apostolos
+npx @apostolos/card
 ```
 
-# Other
+# Update & Deploy
 
-Idea and trend started by [Tierney (@bitandbang)]
-
-To create your own, use [create-my-card].
-
-ie: `npm init my-card`
-
-[npm]: https://www.npmjs.com/
-[tierney (@bitandbang)]: https://www.npmjs.com/package/bitandbang
-[create-my-card]: https://www.npmjs.com/package/create-my-card
-
+```bash
+npm version patch
+npm publish --access public
+```

@@ -1,5 +1,5 @@
 {
-  "name": "apostolos",
+  "name": "@apostolos/card",
   "version": "1.0.0",
   "description": "Personal npm card for Apostolos Tsakpinis (@apostolos)",
   "main": "dist/card.js",
@@ -85,7 +85,7 @@
       },
       {
         "label": "Facebook",
-        "text": "https://www.facebook.com/<blue>{{facebook}}</>",
+        "text": "https://www.facebook.com/<cyan>{{facebook}}</>",
         "when": "{{facebook}}"
       },
       {
