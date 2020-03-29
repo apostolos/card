@@ -1,6 +1,6 @@
 {
   "name": "@apostolos/card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal npm card for Apostolos Tsakpinis (@apostolos)",
   "main": "dist/card.js",
   "unpkg": "index.html",
