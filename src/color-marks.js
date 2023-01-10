@@ -1,7 +1,7 @@
-"use strict";
+'use strict';
 
-const chalker = require("chalker");
+const chalker = require('chalker');
 module.exports = {
   format: chalker,
-  remove: chalker.remove
+  remove: chalker.remove,
 };

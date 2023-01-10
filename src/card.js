@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 /*
  * Note that it's important that sources are all under a single level of directory
@@ -7,7 +7,7 @@
  */
 
 const xrequire = eval(`require`);
-const makeCard = require("./make-card");
-const myPkg = xrequire("../package.json");
+const makeCard = require('./make-card');
+const myPkg = xrequire('../package.json');
 
 console.log(makeCard(myPkg).boxenText);
