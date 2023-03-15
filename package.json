@@ -41,7 +41,7 @@
     "chalk": "4.1.2",
     "chalker": "1.2.0",
     "lodash.get": "4.4.2",
-    "webpack": "5.75.0",
+    "webpack": "5.76.0",
     "webpack-bundle-analyzer": "4.7.0",
     "webpack-cli": "5.0.1"
   },
